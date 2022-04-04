@@ -17,7 +17,7 @@ I needed this to compose music for the Virtual Boy via VirtualBeat by enthusi.
 I'm sure there are better ways to do this, but this is the way I did it.
 Maybe writing a whole new command line program which reuses some of the code from the tracker which handles file open and file save would be enough.
 
-But I took the shortest path for me. I tried starting with libopenmpt only but there's just not enough information to do everything I want there.
+But I took the shortest path for me. I tried starting with libopenmpt only but there's just not enough documentation/information to do everything I want there.
 
 License
 -------
