@@ -19,6 +19,8 @@ Maybe writing a whole new command line program which reuses some of the code fro
 
 But I took the shortest path for me. I tried starting with libopenmpt only but there's just not enough documentation/information to do everything I want there.
 
+Download here: https://github.com/Elrinth/openmpt/releases/download/untagged-c79d4d33b963874fa882/OpenMPT_x86.zip
+
 License
 -------
 
